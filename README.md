@@ -21,3 +21,6 @@ Weibull 분포를 이용한 pdf, loss 구성으로 시간에 따른 사건 발�
 우측 그래프: 여러 Unit 중 선택한 Unit 의 Weibull distribution에 따라 failure rate, reliability, mean life 를 보여준다. 아래가 그 식.
 
 <img width="526" alt="Weibull 식" src="https://user-images.githubusercontent.com/49193062/92318897-7daf2600-f04d-11ea-92d6-a7f22c73919f.PNG">
+
+Time-to-Event: https://github.com/ragulpr/wtte-rnn
+Weibull distribution: https://www.weibull.com/hotwire/issue14/relbasics14.htm
