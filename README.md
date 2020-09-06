@@ -14,3 +14,8 @@ Weibull 분포를 이용한 pdf, loss 구성으로 시간에 따른 사건 발�
 
 좌측 상단 그래프: unit 5 의 현재 train set 의 상태를 time step 에 따라 시각화한 것.
 
+좌측 하단 1: 현 시점에서 사건 발생확률을 time step 에 따라 pdf 로 보여준다.
+좌측 하단 2: 각 time step 에서 pdf 를 그려 전체 시점에서 언제 발생 확률이 높은지 보여준다.
+좌측 하단 3: 현 시점에서 remaining time 의 기대값을 보여준다.
+
+우측 그래프: 여러 Unit 중 선택한 Unit 의 Weibull distribution에 따라 failure rate, reliability, mean life 를 보여준다.
