@@ -23,4 +23,5 @@ Weibull 분포를 이용한 pdf, loss 구성으로 시간에 따른 사건 발�
 <img width="526" alt="Weibull 식" src="https://user-images.githubusercontent.com/49193062/92318897-7daf2600-f04d-11ea-92d6-a7f22c73919f.PNG">
 
 Time-to-Event: https://github.com/ragulpr/wtte-rnn
+
 Weibull distribution: https://www.weibull.com/hotwire/issue14/relbasics14.htm
